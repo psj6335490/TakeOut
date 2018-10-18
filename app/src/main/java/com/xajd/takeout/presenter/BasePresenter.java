@@ -17,7 +17,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
  *  @包名：    com.xajd.takeout.presenter
  *  @文件名:   BasePresenter
  *  @创建者:   Administrator
- *  @创建时间:  2017/6/10 20:42
+ *  @创建时间:  2017/6/10 2 0:42
  *  @描述：    TODO
  */
 public abstract class BasePresenter {
